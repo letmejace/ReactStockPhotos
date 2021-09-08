@@ -6,7 +6,7 @@ const mainUrl = `https://api.unsplash.com/photos/`;
 const searchUrl = `https://api.unsplash.com/search/photos/`;
 
 function App() {
-  return <h2>Get API and show Picture</h2>;
+  return <h2>Get API and show Pictures</h2>;
 }
 
 export default App;
